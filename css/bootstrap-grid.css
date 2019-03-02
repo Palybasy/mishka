@@ -761,7 +761,7 @@ html {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 75%;
         -ms-flex: 0 0 75%;
-            flex: 0 0 75%;
+            flex: 0 0 74%;
     max-width: 75%;
   }
   .col-md-10 {
